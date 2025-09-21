@@ -1,4 +1,4 @@
-# Hi, I'm TekkieDa! 👋
+# Hi, I'm tekkieDa! 👋
 
 **Profession:**  
 Applied Electronics & Instrumentation Engineer (Day Job)  
@@ -37,11 +37,7 @@ Just another tech enthusiast, passionate about coding, building useful things, a
 
 ## 🌟 What to Expect Here
 
-- Codes & Tools  
-- Projects  
-- Tutorials  
-- Cheatsheets  
-- ...and more!
+**Codes & Tools**, **Projects**, **Tutorials**, **Cheatsheets**, **...and more!**
 
 ---
 
@@ -49,10 +45,9 @@ Just another tech enthusiast, passionate about coding, building useful things, a
 
 - **YouTube:** [@tekkieDa](https://www.youtube.com/@tekkieDa)
 - **X (Twitter):** [@tekkieda](https://x.com/tekkieda)
+- **Website:** [@tekkieda](https//:tekkieda.com)
 
 ---
-
-## 🎨 Profile Flair
 
 > 🦄 "Engineering by day, coding by night, powered by caffeine & curiosity.  
 > If it's shiny, quirky, or just plain useful, you'll find it here!"  
